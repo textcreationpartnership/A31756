@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Charge and impeachment of high-treason against Sir John Geyer, Lord Mayor of London, Alderman Adams, Alderman Langham, Alderman Buns, Alderman Cullam, prisoners in the Tower of London together with the votes of the House of Commons, and the impeachment against Collonel Lawrence Bromfield, Collonel Iohn Hooker, and Captain Jones ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31756</idno>
+            <idno type="STC">Wing C2048</idno>
+            <idno type="STC">ESTC R22962</idno>
+            <idno type="EEBO-CITATION">12234701</idno>
+            <idno type="OCLC">ocm 12234701</idno>
+            <idno type="VID">56713</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31756)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56713)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 58:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Charge and impeachment of high-treason against Sir John Geyer, Lord Mayor of London, Alderman Adams, Alderman Langham, Alderman Buns, Alderman Cullam, prisoners in the Tower of London together with the votes of the House of Commons, and the impeachment against Collonel Lawrence Bromfield, Collonel Iohn Hooker, and Captain Jones ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Len. Norton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gayer, John, --  Sir, d. 1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56713:1"/>
+            <pb facs="tcp:56713:1" rendition="simple:additions"/>
+            <p>A CHARGE AND IMPEACHMENT OF HIGH-TREASON AGAINST Sir <hi>John Geyer,</hi> Lord Major of London,
+<list>
+                  <item>Alderman <hi>Adams,</hi>
+                  </item>
+                  <item>Alderman <hi>Langham,</hi>
+                  </item>
+                  <item>Alderman <hi>Buns,</hi>
+                  </item>
+                  <item>Alderman <hi>Cullam.</hi>
+                  </item>
+               </list> Priſoners in the Tower of London.</p>
+            <p>Together with the Votes of the Houſe of Com<g ref="char:EOLhyphen"/>mons; and the Impeachment, againſt Collonel <hi>Lawrence Bromfield,</hi> Collonel <hi>Iohn Hooker,</hi> and Captain <hi>Jones,</hi> Citizens of Lon<g ref="char:EOLhyphen"/>don; now Priſoners to the Ser<g ref="char:EOLhyphen"/>geant at Armes.</p>
+            <p>London, Printed for <hi>Len. Norton.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="indictment">
+            <pb facs="tcp:56713:2"/>
+            <pb facs="tcp:56713:2"/>
+            <head>THE CHARGE and IMPEACHMENT OF HIGH TREASON AGAINST Sir <hi>John Geyer,</hi> (Lord Mayor of <hi>London)</hi> Alderman <hi>Adams,</hi> Alderman <hi>Langham,</hi> Alder<g ref="char:EOLhyphen"/>man <hi>Buns,</hi> and Alderman <hi>Cullam.</hi>
+            </head>
+            <p>VPon the Report made to the Houſe of Com<g ref="char:EOLhyphen"/>mons (upon <hi>Friday</hi> laſt) by Mr. <hi>Miles Cor<g ref="char:EOLhyphen"/>bet,</hi> concerning the late Force, and attempt offered to both Houſes of Parliament; as alſo their endeavouring to raiſe a new Warre, and after ſome time in debate thereof, the Houſe ſell up<g ref="char:EOLhyphen"/>on the ſaid buſineſſe, and proceeded on in finding out the chiefe Actours in the late horrid Engage<g ref="char:EOLhyphen"/>ment, and at laſt came to this Reſult;</p>
+            <pb facs="tcp:56713:3"/>
+            <p>
+               <hi>Reſolved upon the Queſtion,</hi>
+            </p>
+            <p>That there appeares matter ſufficient to accuſe Sir <hi>Iohn Geyer</hi> (Lord Mayor of <hi>London) Thomas A<g ref="char:EOLhyphen"/>dams, Iames Buns, Iohn Langham,</hi> and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Cullum,</hi> (Aldermen of the City of <hi>London)</hi> of High Trea<g ref="char:EOLhyphen"/>ſon, and other Crimes and Misdemeanours, &amp;c. Whereupon it was ordered, That the ſaid Sir <hi>Iohn Geyer,</hi> Alderman <hi>Adams,</hi> Alderman <hi>Buns,</hi> Alder<g ref="char:EOLhyphen"/>man <hi>Langham,</hi> and Alderman <hi>Cullum,</hi> be commit<g ref="char:EOLhyphen"/>ted to the Tower of <hi>London,</hi> upon a Charge and Im<g ref="char:EOLhyphen"/>peachment of High-Treaſon, for their late Actions and great forwardneſſe, touching the late Engage<g ref="char:EOLhyphen"/>ment againſt the Army, &amp;c.</p>
+            <p>This Charge will be ſpeedily drawn up at large, together with the Articles of their Impeachment for their ſaid ſuch Crimes, and Miſdemeanours; which Charge (as is ſaid) conſiſteth of theſe particulars; <hi>viz.</hi>
+            </p>
+            <list>
+               <label>I.</label>
+               <item>That the ſaid Sir <hi>Iohn Geyer</hi> (Lord Mayor of <hi>London) Thomas Adams, Iames Buns, Iohn Lang<g ref="char:EOLhyphen"/>ham,</hi> and <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Cullum,</hi> Aldermen of the ſaid City, did joyne in the traiterous deſigne of leavying Wa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r to force the Kings Majeſtie to come to <hi>London,</hi> to countenance a moſt dangerous deſigne.</item>
+               <label>II.</label>
+               <item>That the ſaid Sir <hi>Iohn Geyer</hi> (Lord Mayor of <hi>London) Thomas Adams, Iames Buns, Iohn Langham,</hi> and <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Cullum,</hi> Aldermen of the ſaid City, did joyn in countenancing, and imploying divers Reformadoes, and others, who fotced the Speakers, and other Mem<g ref="char:EOLhyphen"/>bers
+<pb facs="tcp:56713:3"/>from the Houſes, becauſe they could not there ſit in a free Parliament.</item>
+               <label>III.</label>
+               <item>That the ſaid Sir <hi>Iohn Geyer</hi> (Lord Mayor of <hi>London) Thomas Adams, Iames Buns, Iohn Langham,</hi> and <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Cullum,</hi> Aldetmen of the ſaid City, did joyn in leavying Forces againſt the Army, with thoſe who imployed ſuch evill affected perſons, to oppoſe them and ſought to deſtroy them.</item>
+               <label>IV.</label>
+               <item>That they have countenanced the Cities Declara<g ref="char:EOLhyphen"/>tion againſt the Army; which was publiſhed, and read in divers Churches about the City of <hi>London,</hi> tending to the raiſing a new Warre.</item>
+            </list>
+            <p>Divers other Articles (as is ſaid) are drawing up, (to be preſented to both Houſes of Parliament) a<g ref="char:EOLhyphen"/>gainſt the ſaid Sir <hi>Iohn Geyer</hi> (Lord Mayor of <hi>Lon<g ref="char:EOLhyphen"/>don)</hi> by divers well-affected Citizens, and others, who have ſuffered very much, by the faid Lord Mayor, (eſpecially the Company of Weavers) to the utter undoing of many honeſt men of that trade, both in perſon and eſtate.</p>
+            <p>The ſaid Lord Mayor, were ſent priſoner to the Tower of <hi>London</hi> upon <hi>Saturday</hi> laſt, (25. inſtant) being conducted thither, by two Captaines belong<g ref="char:EOLhyphen"/>ing to his Excellency Sir <hi>Thomas Fairfax;</hi> and when his Lordſhip came to Tower-Hill, he reſigned up his Sword, to the City, and according to Order, took his place in the Tower of <hi>London.</hi>
+            </p>
+            <p>But upon <hi>Friday</hi> night (having leave to ſtay at his own houſe) about two of the clock in the morning,
+<pb facs="tcp:56713:4"/>he ſent a meſſenger to Alderman <hi>Bide,</hi> living at <hi>Shorditch;</hi> what the Meſſage contained I cannot give you full ſatisfaction therein; onely this, That his Lordſhip acquainted the ſaid Alderman, the plea<g ref="char:EOLhyphen"/>ſure of both Houſes, conceruing his Lordſhip, that it was ordered, he and ſome others, ſhould be com<g ref="char:EOLhyphen"/>mitted priſoners to the Tower of <hi>London</hi> upon the <hi>Saturday</hi> morning, which was accordingly perfor<g ref="char:EOLhyphen"/>med.</p>
+            <p>It is further declared, againſt the ſaid Sir <hi>Iohn Gey<g ref="char:EOLhyphen"/>er</hi> (Lord Mayor of <hi>London)</hi> that he, and divers o<g ref="char:EOLhyphen"/>ther of his Adherents, have been great Obſtructers to the Peace of the Kingdome, and alſo have beene very backward in raiſing of the ſumme demanded by both Houſes, for payment of the Army; al<g ref="char:EOLhyphen"/>though formerly (as doth evidently appeare) the ſaid Lord Mayor, and divers other Aldermen, prof<g ref="char:EOLhyphen"/>fered great ſummes of money for maintaming of a ſecond Warre againſt the King, Parliament, and Kingdome.</p>
+            <p>Upon Saturday September 25. the Commons took it into conſideration, the Report made by <hi>Mr. Corbet,</hi> concerning ſome other Citizens, <hi>viz.</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Laurence Bromfield,</hi> Colonell <hi>Iohn Hooker,</hi> and Captain <hi>Iones,</hi> and upon Debate.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That there appeares matter ſufficient to accuſe Colonell <hi>Laurence Bromfield</hi> of high Crimes and miſdemeanours; and it was ordered that Colonell <hi>Laurence Bromfield</hi> be committed to the cuſtody of the Sergeant at Armes, for high Crimes and misde<g ref="char:EOLhyphen"/>meanours.</p>
+            <pb facs="tcp:56713:4"/>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That there appeares matter ſufficient to accuſe Colonell <hi>Iohn Hooker</hi> of High Crimes and misde<g ref="char:EOLhyphen"/>meanours.</p>
+            <p>And it was ordered, that the ſaid Colonell <hi>Iohn Hooker</hi> be committed to the cuſtody of the Sergeant at Armes, for his ſaid miſdemeanours.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That there appeares matter ſufficient to accuſe Captain <hi>Iohn Iones</hi> of high Crimes and miſdemea<g ref="char:EOLhyphen"/>nours;</p>
+            <p>And it was ordered, that the ſaid Captain <hi>Iones</hi> be committed to the cuſtody of the Sergeant at Arms, for his miſdemeanours.</p>
+            <p>
+               <hi>Reſolved,</hi>
+            </p>
+            <p>That there appeates matter ſufficient to accuſe Captain <hi>Muſgrave</hi> of divers high Crimes and miſ<g ref="char:EOLhyphen"/>demeanours;</p>
+            <p>And it was ordered, that he continue a priſoner in <hi>New-gate,</hi> and that he be indicted of High Trea<g ref="char:EOLhyphen"/>ſon at the <hi>Kings-Bench</hi> Barre.</p>
+            <p>And there is alſo power given to Mr. <hi>Corbet,</hi> Mr. <hi>Selden,</hi> and divers others, to ſee the ſaid Indictment put in full force, and to be brought to a ſpeedy tryall.</p>
+            <p>This Coptain <hi>Muſgrave</hi> was a great Actour in the late deſperate Engagement, and the chief promoter of the mutinous Petition, being the chiefeſt of thoſe, who forced the Houſes to Vote what they plea<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>He alſo countenanced the Cities Declaration a<g ref="char:EOLhyphen"/>gainſt the Army, which was publiſhed, and read in
+<pb facs="tcp:56713:5"/>divers Churches about the City of <hi>London,</hi> tending to the raiſing a new Warre.</p>
+            <p>And that he was alſo after at the pretended Com<g ref="char:EOLhyphen"/>mittee of the Militia of London, and the Committee of Saſety, who levyed Forces againſt the King, Par<g ref="char:EOLhyphen"/>liament, and Kingdome.</p>
+            <p>And that he further countenanced divers Warrants, for the raiſing of Forces, to joyn in the aforeſaid Treaſonable Deſigne, a<g ref="char:EOLhyphen"/>gainſt the King, Parliament, and King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>And that he joyned with others in re<g ref="char:EOLhyphen"/>moving divers Perſons of Truſt out of their places, in the Tower and elſe where, and placing of ſuch in their roomes, as joyned with the late Riotous people.</p>
+            <p>It is ſuppoſed, that there are more Cards ſtill to play, and that there will be a fur<g ref="char:EOLhyphen"/>ther Diſcovery of divers other Citi<g ref="char:EOLhyphen"/>zens.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
